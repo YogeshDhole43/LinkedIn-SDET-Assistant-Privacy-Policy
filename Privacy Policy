@@ -1,0 +1,56 @@
+Privacy Policy
+Effective Date: [22/03/2025]
+
+Thank you for using LinkedIn SDET Assistant. Your privacy is important to us, and we are committed to protecting any data that our extension interacts with. This Privacy Policy explains what information we collect, how it is used, and your choices regarding data privacy.
+
+1. Information We Collect
+The LinkedIn SDET Assistant extension operates directly within your LinkedIn feed to analyze post engagement, suggest AI-powered comments and reactions, and provide content recommendations. We only process publicly available content from LinkedIn and do not collect, store, or share any personally identifiable information (PII).
+
+Data Processed by the Extension:
+LinkedIn Post Content – Extracted from your feed to identify trending posts, suggest comments, and recommend reactions.
+Engagement Metrics – Analyzed to determine the most engaging posts.
+User Preferences & Drafts – Stored locally in your browser for post editing and AI-assisted content suggestions.
+We do NOT collect, store, or transmit:
+❌ Personal details (e.g., name, email, age, or location)
+❌ Login credentials or authentication data
+❌ Private messages or communications
+❌ Web browsing history outside of LinkedIn
+❌ Financial, health, or sensitive data
+
+2. How We Use Your Data
+The extension processes LinkedIn feed data solely to enhance user experience by:
+
+Identifying trending posts based on engagement.
+Generating AI-powered post topic suggestions.
+Recommending comments and reactions tailored to post content.
+Allowing users to edit and preview LinkedIn posts before publishing.
+We do not share, sell, or transfer any user data to third parties.
+
+3. Data Storage & Security
+The extension does not store any data on external servers; all processing happens locally within your browser.
+Any post drafts or user preferences are stored using Chrome's local storage and are not accessible to external entities.
+4. Permissions Required
+To function effectively, the extension requires the following Chrome permissions:
+
+activeTab – To analyze LinkedIn content when the extension is in use.
+host permissions (https://www.linkedin.com/*) – To access LinkedIn feed data for processing.
+scripting – To inject scripts for AI-powered insights on the LinkedIn page.
+storage – To save user preferences and drafts locally.
+These permissions are used exclusively for the extension’s functionality and do not access unrelated data.
+
+5. Third-Party Services
+Some AI processing (such as post topic generation and comment suggestions) may utilize external AI models. However, we ensure that:
+
+No personally identifiable information is transmitted.
+Only LinkedIn post text and engagement data are processed.
+6. User Control & Opt-Out Options
+Since the extension does not collect or store personal data, there is no need for an account or manual data deletion. Users can:
+
+Remove stored drafts by clearing browser storage.
+Disable or uninstall the extension anytime through Chrome’s extension settings.
+7. Changes to This Privacy Policy
+We may update this policy periodically. Any changes will be reflected within the extension’s settings and on our official website (if applicable). Continued use of the extension after updates signifies acceptance of the revised terms.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+✉ yogesh.dholep@gmail.com
